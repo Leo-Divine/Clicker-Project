@@ -1,7 +1,9 @@
 # Crystal Clicker
-I created this game as the passion project for sophomore year. Spent $50 on sprites for a game I didn't even finish.
+I created this game as the passion project for sophomore year. Spent $50 on pixel art for a game I didn't even finish.
 
-With showcase in mind, all of the games different upgradables are stored in JSON files in ./json/. You can change all of the content of the game from there.
+It's like cookie clicker. You click a rock on the screen to get points, and you use those points to buy upgrades to earn more points.
+
+With showcase day in mind, all of the games different upgradables are stored in JSON files in ./json/. You can change all of the content of the game from there.
 
 ## How to set up the game
 1. Copy the code on your local device.
